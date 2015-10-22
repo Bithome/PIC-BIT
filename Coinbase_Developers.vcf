@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN:Brian Armstrong
+N:Brian Armstrong;;;;
+PROFILE:VCARD
+ADR:;;548 Market St #23008;San Francisco;CA;94104;USA
+EMAIL:brian@coinbase.com
+ORG:Coinbase\, Inc.
+URL:https://coinbase.com
+END:VCARD
